@@ -1,3 +1,5 @@
+Deplyed link: https://sweet-jalebi-12b268.netlify.app/
+
 # Battle-bot
 
 This is the Bot-battlr app, a React JavaScript application that fetches data from an API and dynamically manipulates the DOM to display army bots illustrations and allow the user to pick there bot and fight with them.
